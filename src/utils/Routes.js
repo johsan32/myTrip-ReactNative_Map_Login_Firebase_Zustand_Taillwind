@@ -1,0 +1,9 @@
+export const SPLASH = 'Splash Screen';
+export const LOGIN = 'Login Screen';
+export const REGISTER = 'Register Screen';
+export const TAB = 'Tab';
+export const TRIPLIST = 'Trip List';
+export const HOME = 'Home Screen';
+export const PROFILE = 'Profile Screen';
+export const SEARCH = 'Search';
+export const ONBOARDING = 'Onboarding Screen';
